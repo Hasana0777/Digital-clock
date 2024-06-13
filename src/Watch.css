@@ -1,0 +1,27 @@
+
+
+body {
+  
+    padding-top: 9rem;
+    text-align: center;
+    background-image: url("wall.jpg");
+   
+   
+  }
+  .digital-clock{
+    color:firebrick;
+    font-size:xx-large;
+    font-family: cursive;
+  }
+  .time{
+    font-size: 40px;
+    color: black;
+    padding-top: 30px;
+ font-weight: 900;
+  }
+.day{
+    padding-top: 30px;
+    font-size: 35px;
+    color:black;
+    font-weight: 900;
+}
